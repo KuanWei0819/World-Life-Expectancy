@@ -1,6 +1,9 @@
 # World-Life-Expectancy
-R-programming language
+## Background: This project seeks to find the trend for world life expectancy and create model that predicts life expectancy using different predictors such as GDP, fertility rate, etc.
+## Result: The world is heading to higher life expectancy and lower fertility.
 
+
+R-programming language
 ```{r}
 getwd()
 ```
